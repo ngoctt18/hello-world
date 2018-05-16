@@ -1,6 +1,9 @@
-First example about Git
+First exampleeee about Git
 https://github.com/trantuanngoctn97/hello-world
-trantuanngoctn97@gmail.com
-P@sswordgitHub1997
 
-10:32: Thêm 1 dòng
+Add 1 dòng ở đây thì sao nào?
+
+Email: trantuanngoctn97@gmail.com
+Pass: P@sswordgitHub1997
+
+10:32: Add 1 dòng. Đủ thêm sửa xóa.

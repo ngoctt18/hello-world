@@ -1,0 +1,2 @@
+- Cái phần thanh toán của Đức có thêm cột Giá xem ở video bài 14.
+- Bảng FoodOrder thêm 2 cột là totalPrice và discount nữa!
